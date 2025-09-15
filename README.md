@@ -13,7 +13,7 @@
 </div>
 <h2></h2>
   <br>
-<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2E0bDFybW1ibWN3d2VkbzlkamdkazA5cmxjMXNodThlNWdoemxreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RfZ2IzsNNpGkYZzW9m/giphy.gif" alt="shadowy" width="27%">
+<img align="right" src="https://i.redd.it/sr30kl2qsg6e1.gif" alt="shadowy" width="27%">
 
 <div align="left">
   <p>
