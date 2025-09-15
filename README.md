@@ -10,7 +10,7 @@
 </div>
 <h2></h2>
   <br>
-<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2E0bDFybW1ibWN3d2VkbzlkamdkazA5cmxjMXNodThlNWdoemxreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RfZ2IzsNNpGkYZzW9m/giphy.gif" alt="shadowy" width="10%">
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2E0bDFybW1ibWN3d2VkbzlkamdkazA5cmxjMXNodThlNWdoemxreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RfZ2IzsNNpGkYZzW9m/giphy.gif" alt="shadowy" width="30%">
 
 <div align="left">
   <p>
@@ -25,7 +25,7 @@
  
  <div align="center">
   <br><h2></h2><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=posxtura&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
+  <img src="[![trophy]https://github-profile-trophy.vercel.app/?username=posxtura&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
  </div>
  
 <br><h2></h2><br>
