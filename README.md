@@ -4,6 +4,9 @@
   <br>
   <a href="mailto:rogercpobelo@gmail.com" alt="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
+  
+  <a href="https://www.codewars.com/users/posxtura" alt="Codewars" target="_blank">
+  <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" /></a>
 
   <a href="https://www.linkedin.com/in/roger-batista-silva-724293275/" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
