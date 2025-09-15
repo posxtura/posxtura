@@ -10,12 +10,12 @@
 </div>
 <h2></h2>
   <br>
-<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2E0bDFybW1ibWN3d2VkbzlkamdkazA5cmxjMXNodThlNWdoemxreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RfZ2IzsNNpGkYZzW9m/giphy.gif" alt="shadowy" width="30%">
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2E0bDFybW1ibWN3d2VkbzlkamdkazA5cmxjMXNodThlNWdoemxreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RfZ2IzsNNpGkYZzW9m/giphy.gif" alt="shadowy" width="27%">
 
 <div align="left">
   <p>
   <h3><strong> 💻 My Skills </strong> </h3>
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,mysql" width="30%">
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,c,html,css" width="30%">
   </p>  
   <p>  
   <h3><strong> 📖 Currently Studying </strong></h3>
@@ -25,7 +25,7 @@
  
  <div align="center">
   <br><h2></h2><br>
-  <img src="[![trophy]https://github-profile-trophy.vercel.app/?username=posxtura&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
+  <img src="https://github-profile-trophy.vercel.app/?username=posxtura&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
  </div>
  
 <br><h2></h2><br>
